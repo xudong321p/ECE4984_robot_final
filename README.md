@@ -1,3 +1,10 @@
+#Compile and Run
+*** 
+Python version 2.7.15
+In termainal type: python problem2.py
+                   python bfs_dfs.py
+****
+
 #Dijkstra
 *** 
 Advantage:
